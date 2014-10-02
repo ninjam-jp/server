@@ -1,0 +1,4 @@
+server
+======
+
+NINJAM-JP Server
