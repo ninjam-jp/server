@@ -1,0 +1,4 @@
+--compilers ls:LiveScript
+--reporter spec
+--ui bdd
+test
